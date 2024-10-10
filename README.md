@@ -10,3 +10,5 @@
 6. Запускаем Discord.exe (созданный до этого ярлык) и радуемся
 
    Звонки также работают!!!
+
+ЗАПУСКАТЬ ТОЛЬКО ОТ ИМЕНИ АДМИНИСТРАТОРА! ИНАЧЕ БУДЕТ ЗАКРЫВАТЬСЯ. Если у вас всё равно не работает, качаем это https://download.visualstudio.microsoft.com/download/pr/cc913baa-9bce-482e-bdfc-56c4b6fafd10/e3f24f2ab2fc02b395c1b67f5193b8d1/dotnet-runtime-8.0.8-win-x64.exe
